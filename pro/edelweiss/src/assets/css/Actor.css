@@ -1,0 +1,32 @@
+.actor__list {
+  display: flex;
+  flex-flow: row wrap;
+}
+.actor__item {
+  border: 1px solid #eee;
+  width: 250px;
+  text-align: center;
+  margin: 3px;
+}
+.actor__photo {
+  max-width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+.actor__text {
+  padding: 5px;
+}
+.actor__name {
+  font-weight: 600;
+}
+.actor__height {
+  font-style: italic;
+  font-weight: 100;
+  font-size: 16px;
+  color: rgb(138, 138, 138);
+}
+.actor__birthday {
+  color: rgb(138, 138, 138);
+  font-size: 16px;
+  font-weight: 100;
+}

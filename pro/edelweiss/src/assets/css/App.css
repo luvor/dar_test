@@ -1,0 +1,7 @@
+.edelweiss__footer {
+  color: #fff;
+  padding: 200px 40px;
+  background: url("../images/edelweiss.jpg") no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
